@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   id="svg8"
+>
+  <defs
+     id="defs2" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(2.8626506,-28.626506)"
+     id="layer1">
+    <rect
+       style="fill:#dfd8bd;fill-opacity:1;stroke:#000000;stroke-width:1.9986;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect860"
+       width="210.07526"
+       height="158.22498"
+       x="-0.16560857"
+       y="30.479149" />
+    <rect
+       transform="matrix(0.91346316,0.40692144,-0.93038375,0.36658706,0,0)"
+       y="85.025246"
+       x="208.10152"
+       height="87.598473"
+       width="87.312073"
+       id="rect833-7"
+       style="fill:#dfd8bd;fill-opacity:1;stroke:#000000;stroke-width:2.36781;stroke-miterlimit:4;stroke-dasharray:none" />
+    <rect
+       transform="matrix(0.91346316,0.40692144,-0.93038375,0.36658706,0,0)"
+       y="39.516571"
+       x="159.11656"
+       height="87.598473"
+       width="87.312073"
+       id="rect833-2"
+       style="fill:#dfd8bd;fill-opacity:1;stroke:#000000;stroke-width:2.36781;stroke-miterlimit:4;stroke-dasharray:none" />
+    <rect
+       style="fill:#dfd8bd;fill-opacity:1;stroke:#000000;stroke-width:2.36781;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect833"
+       width="87.312073"
+       height="87.598473"
+       x="101.52897"
+       y="-13.694602"
+       transform="matrix(0.91346315,0.40692145,-0.93038375,0.36658707,0,0)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:89.1726px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.22932"
+       x="18.072588"
+       y="103.72277"
+       id="text858"
+       transform="scale(0.63095447,1.5849004)"><tspan
+         sodipodi:role="line"
+         id="tspan856"
+         x="18.072588"
+         y="103.72277"
+         style="stroke-width:2.22932">ALGOL</tspan></text>
+  </g>
+</svg>
