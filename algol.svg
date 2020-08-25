@@ -4,47 +4,81 @@
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
-   version="1.1"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="algol.svg"
    id="svg8"
->
-  <defs
-     id="defs2" />
+   version="1.1"
+   preserveAspectRatio="xMidYMid"
+   viewBox="0 0 256 288"
+   height="2500"
+   width="2222">
   <metadata
-     id="metadata5">
+     id="metadata14">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
+  <defs
+     id="defs12">
+    <rect
+       id="rect841"
+       height="49.62424"
+       width="49.277217"
+       y="108.25667"
+       x="102.71871" />
+  </defs>
+  <sodipodi:namedview
+     inkscape:current-layer="layer1"
+     inkscape:window-maximized="1"
+     inkscape:window-y="-9"
+     inkscape:window-x="1911"
+     inkscape:cy="1269.907"
+     inkscape:cx="926.10332"
+     inkscape:zoom="0.23475945"
+     showgrid="false"
+     id="namedview10"
+     inkscape:window-height="1001"
+     inkscape:window-width="1920"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     inkscape:document-rotation="0" />
   <g
-     transform="translate(2.8626506,-28.626506)"
+     transform="matrix(1.2060876,0,0,1.673402,2.3863898,2.5907654)"
      id="layer1">
     <rect
        style="fill:#dfd8bd;fill-opacity:1;stroke:#000000;stroke-width:1.9986;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect860"
        width="210.07526"
-       height="158.22498"
-       x="-0.16560857"
-       y="30.479149" />
+       height="170"
+       x="0"
+       y="0" />
     <rect
        transform="matrix(0.91346316,0.40692144,-0.93038375,0.36658706,0,0)"
-       y="85.025246"
-       x="208.10152"
+       y="57.969318"
+       x="176.98079"
        height="87.598473"
        width="87.312073"
        id="rect833-7"
        style="fill:#dfd8bd;fill-opacity:1;stroke:#000000;stroke-width:2.36781;stroke-miterlimit:4;stroke-dasharray:none" />
     <rect
        transform="matrix(0.91346316,0.40692144,-0.93038375,0.36658706,0,0)"
-       y="39.516571"
-       x="159.11656"
+       y="13.000344"
+       x="132.55461"
        height="87.598473"
        width="87.312073"
        id="rect833-2"
@@ -54,20 +88,20 @@
        id="rect833"
        width="87.312073"
        height="87.598473"
-       x="101.52897"
-       y="-13.694602"
+       x="78.342766"
+       y="-39.957947"
        transform="matrix(0.91346315,0.40692145,-0.93038375,0.36658707,0,0)" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:89.1726px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.22932"
-       x="18.072588"
-       y="103.72277"
+       x="18.717482"
+       y="85.958725"
        id="text858"
        transform="scale(0.63095447,1.5849004)"><tspan
          sodipodi:role="line"
          id="tspan856"
-         x="18.072588"
-         y="103.72277"
+         x="18.717482"
+         y="85.958725"
          style="stroke-width:2.22932">ALGOL</tspan></text>
   </g>
 </svg>
